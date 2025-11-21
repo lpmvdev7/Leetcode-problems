@@ -8,3 +8,7 @@ https://leetcode.com/problems/richest-customer-wealth/description/
 
 ## 003_412.py
 https://leetcode.com/problems/fizz-buzz/description/
+
+## 004_1342.py
+https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/
+
